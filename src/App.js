@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <header className="App-header">
-          <h1>Pius Digital Solutions</h1>
+          <h1>DevMint Solutions</h1>
         </header>
         <nav>
           <Link className="link" to="/signup">
@@ -35,7 +35,7 @@ function App() {
           </Link>
           
         </nav>
-        <Carousel />
+        
 
         <Routes>
           <Route path="/signup" element={<Signup />} />
