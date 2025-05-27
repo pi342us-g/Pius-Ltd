@@ -40,7 +40,7 @@ const Getlaptop = () => {
   
 
 
-
+<Carousel />
   return (
     <div className="container-fluid row">
       <h1>Explore Products</h1>
